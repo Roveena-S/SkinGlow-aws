@@ -1,4 +1,4 @@
-export const API = "https://13.48.178.140";
+export const API = "https://16.171.52.168";
 
  export const products = [
   {
