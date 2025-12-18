@@ -1,3 +1,4 @@
+export const API = "https://skinglow-aws-1.onrender.com";
 
  export const products = [
   {
