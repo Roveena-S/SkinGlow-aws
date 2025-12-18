@@ -1,4 +1,4 @@
-export const API = "https://skinglow-aws-1.onrender.com";
+export const API = "https://13.48.178.140";
 
  export const products = [
   {
