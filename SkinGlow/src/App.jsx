@@ -36,7 +36,7 @@ function App() {
           {/* LOGO */}
           <Link to="/" className="no-underline">
             <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-rose-600">
-              SkinGlow 🎀 
+              SkinGlows🎀 
             </h1>
           </Link>
 
